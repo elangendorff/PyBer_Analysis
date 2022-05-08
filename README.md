@@ -1,11 +1,9 @@
 # PyBer Analysis
 
 ## Overview
----
 Create a summary table of *PyBer* ride-sharing data by city type (urban, suburban, or rural), and use it to create a multi-line graph that shows the weekly fares for each type of city. Using the table and graph, analyze how the differences in ride sharing based on city type can increase PyBer revenue.
 
 ## Resources
----
 - Software:
   - Python 3.10.4
     - Pandas package (to process DataFrames)
@@ -17,7 +15,6 @@ Create a summary table of *PyBer* ride-sharing data by city type (urban, suburba
   - ride_data.csv
 
 ## Analysis and Results
----
 ### Fares per Week by City Type
 
 #### The Graph
